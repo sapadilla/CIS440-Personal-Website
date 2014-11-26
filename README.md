@@ -27,9 +27,9 @@ offer such as warning text, and glyphs in the buttons.
 <br/>
 <br/>
 ###**Examples of Small Screen(Responsive)**  
-  ![Website Pictures](/Pictures/web2.PNG)
   ![Website Pictures](/Pictures/web3.PNG)
-  ![Website Pictures](/Pictures/web4.PNG)  
+  ![Website Pictures](/Pictures/web4.PNG)
+  ![Website Pictures](/Pictures/web5.PNG)  
   
 
 
